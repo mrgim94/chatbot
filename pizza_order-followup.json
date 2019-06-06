@@ -1,0 +1,43 @@
+{
+  "id": "b0625dd1-149b-4993-b36d-1762dceaf67a",
+  "parentId": "5ecfb8c0-d04a-4a2c-aa28-3148a0fab668",
+  "rootParentId": "5ecfb8c0-d04a-4a2c-aa28-3148a0fab668",
+  "name": "pizza_order-followup",
+  "auto": true,
+  "contexts": [
+    "pizza_order-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "pizza_order",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ef82cc9e-b753-47b3-abb6-85f50b0bc919",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "address",
+          "value": "$address",
+          "isList": false
+        },
+        {
+          "id": "01271d74-a901-47d6-bc7d-937b54f1ee6b",
+          "required": false,
+          "name": "pizza_type",
+          "value": "#pizza_order-followup.pizza_type",
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189119621,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,193 @@
+[
+  {
+    "id": "3a5afd63-2749-4ea1-bdbd-5cd179e1593c",
+    "data": [
+      {
+        "text": "페퍼로니피자",
+        "alias": "pizza_type",
+        "meta": "@pizza_type",
+        "userDefined": false
+      },
+      {
+        "text": " 먹을래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d64febcf-978f-45a9-b3d8-a1752693dd41",
+    "data": [
+      {
+        "text": "포테이토피자",
+        "alias": "pizza_type",
+        "meta": "@pizza_type",
+        "userDefined": false
+      },
+      {
+        "text": " 구입하려고",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b6b5d725-b44b-45ce-a0f8-ae5ed17e1308",
+    "data": [
+      {
+        "text": "불고기피자",
+        "alias": "pizza_type",
+        "meta": "@pizza_type",
+        "userDefined": false
+      },
+      {
+        "text": " 보내줄래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f9a387e2-c5cd-4b6b-8084-fd4e9da02682",
+    "data": [
+      {
+        "text": "페퍼로니피자",
+        "alias": "pizza_type",
+        "meta": "@pizza_type",
+        "userDefined": false
+      },
+      {
+        "text": " 사고싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff2e4243-015e-4056-822c-98329345f103",
+    "data": [
+      {
+        "text": "포테이토피자",
+        "alias": "pizza_type",
+        "meta": "@pizza_type",
+        "userDefined": false
+      },
+      {
+        "text": " 주문할래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d6f238dc-0d04-4cbb-a852-35dcf9a9629b",
+    "data": [
+      {
+        "text": "피자 먹을래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8b7cfb14-0775-4801-a826-522e418005ab",
+    "data": [
+      {
+        "text": "피자 보내줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "91384753-f8a1-4712-99aa-eea2086af820",
+    "data": [
+      {
+        "text": "피자 살래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "09d9530a-0c8f-4e39-ba34-f8aaf96518cf",
+    "data": [
+      {
+        "text": "구입하고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2e21cf06-fd8a-4d23-a5df-40a18d315d33",
+    "data": [
+      {
+        "text": "주문하고 싶은데",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "16396f50-fdc4-47c0-9531-1c532a4c1b37",
+    "data": [
+      {
+        "text": "포테이토피자",
+        "alias": "pizza_type",
+        "meta": "@pizza_type",
+        "userDefined": false
+      },
+      {
+        "text": " 살거야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "03ae1ab4-dcf8-48ea-8276-9f17ff4ed515",
+    "data": [
+      {
+        "text": "페퍼로니피자",
+        "alias": "pizza_type",
+        "meta": "@pizza_type",
+        "userDefined": false
+      },
+      {
+        "text": " 보내줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2a9d7cea-4fb6-417f-ae38-c0bc6d64221e",
+    "data": [
+      {
+        "text": "불고기피자",
+        "alias": "pizza_type",
+        "meta": "@pizza_type",
+        "userDefined": false
+      },
+      {
+        "text": " 주문할래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

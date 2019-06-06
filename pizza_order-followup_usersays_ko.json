@@ -1,0 +1,15 @@
+[
+  {
+    "id": "752ab6bf-21b6-4e6b-9ca7-6e24243935c0",
+    "data": [
+      {
+        "text": "주소",
+        "alias": "address",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
