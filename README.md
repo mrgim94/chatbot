@@ -1,4 +1,3 @@
-Welcome to the chatbot wiki!
 
 chatbot
 Dialogflow와 Django를 이용한 채팅봇 메뉴에 관한 설명과 기본적인 대답 구현
