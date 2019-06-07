@@ -1,24 +1,24 @@
 {
   "id": "45eca394-80d3-4679-9df1-aeea1e8a0fd8",
-  "name": "pizza_info",
+  "name": "menu_info",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
-      "action": "pizza_info",
+      "action": "menu_info",
       "affectedContexts": [],
       "parameters": [
         {
           "id": "eda11780-fcd7-46c7-ae8d-4e168f99d6a6",
           "required": true,
-          "dataType": "@pizza_type",
-          "name": "pizza_type",
-          "value": "$pizza_type",
+          "dataType": "@menu_type",
+          "name": "menu_type",
+          "value": "$menu_type",
           "prompts": [
             {
               "lang": "ko",
-              "value": "피자 종류를 선택하세요\n\n1. 불고기피자\n2. 페퍼로니피자\n3. 포테이토피자"
+              "value": "메뉴를 선택하세요\n\n1. 라면\n2. 비빔밥\n3. 돈까스"
             }
           ],
           "isList": false
